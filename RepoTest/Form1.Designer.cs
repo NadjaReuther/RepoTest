@@ -39,7 +39,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button1.Location = new System.Drawing.Point(133, 205);
+            this.button1.Location = new System.Drawing.Point(210, 212);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(297, 65);
             this.button1.TabIndex = 0;
@@ -67,11 +67,11 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(542, 263);
+            this.button3.Location = new System.Drawing.Point(505, 308);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(193, 88);
             this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
+            this.button3.Text = "knopf3";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
