@@ -80,7 +80,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(116, 37);
             this.button4.TabIndex = 4;
-            this.button4.Text = "button4";
+            this.button4.Text = "Klaus";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // comboBox1
